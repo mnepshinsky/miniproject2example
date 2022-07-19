@@ -13,6 +13,7 @@
 		4080D5F22880BAA9008EC839 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4080D5F02880BAA9008EC839 /* Main.storyboard */; };
 		4080D5F42880BAAA008EC839 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4080D5F32880BAAA008EC839 /* Assets.xcassets */; };
 		4080D5F72880BAAA008EC839 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4080D5F52880BAAA008EC839 /* LaunchScreen.storyboard */; };
+		4080D5FF2880BC62008EC839 /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4080D5FE2880BC62008EC839 /* secondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4080D5F32880BAAA008EC839 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4080D5F62880BAAA008EC839 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4080D5F82880BAAA008EC839 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4080D5FE2880BC62008EC839 /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4080D5EA2880BAA9008EC839 /* AppDelegate.swift */,
 				4080D5EC2880BAA9008EC839 /* SceneDelegate.swift */,
 				4080D5EE2880BAA9008EC839 /* ViewController.swift */,
+				4080D5FE2880BC62008EC839 /* secondView.swift */,
 				4080D5F02880BAA9008EC839 /* Main.storyboard */,
 				4080D5F32880BAAA008EC839 /* Assets.xcassets */,
 				4080D5F52880BAAA008EC839 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				4080D5EF2880BAA9008EC839 /* ViewController.swift in Sources */,
 				4080D5EB2880BAA9008EC839 /* AppDelegate.swift in Sources */,
+				4080D5FF2880BC62008EC839 /* secondView.swift in Sources */,
 				4080D5ED2880BAA9008EC839 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
