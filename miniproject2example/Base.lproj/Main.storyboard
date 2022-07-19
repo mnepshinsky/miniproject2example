@@ -64,6 +64,12 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Take Me To The About Us Page!"/>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bnD-4I-ptN">
+                                <rect key="frame" x="122" y="346" width="180" height="84"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Information Here!"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="nL9-bv-jxI"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
