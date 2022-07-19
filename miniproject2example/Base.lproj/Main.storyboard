@@ -58,6 +58,12 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="New Page"/>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="diJ-Rb-unc">
+                                <rect key="frame" x="95" y="634" width="241" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Take Me To The About Us Page!"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="nL9-bv-jxI"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
